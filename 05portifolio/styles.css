@@ -51,7 +51,6 @@ body{
     height: 92vh;
     background-color: #000;
     background-image: linear-gradient(62deg, #323e4a 0%, #453b4f 100%);
-    transition: all 2s ease-in-out;
 }
 
 #welcome-section h1 {
