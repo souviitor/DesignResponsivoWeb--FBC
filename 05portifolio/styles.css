@@ -142,6 +142,11 @@ body{
     font-style:italic;
 }
 
+.link-contacts img {
+    border-radius: 25px;
+    background-image: linear-gradient(62deg, #8245f4 0%, #2a1b45 100%);
+}
+
 /* Rodapé */
 footer {
     font-weight: 300;
