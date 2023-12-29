@@ -40,7 +40,6 @@ body{
     transition: 1s ease-out;
     margin: 0;
 }
-/* seletor da navbar */
 
 /* Seção de boas-vindas */
 #welcome-section {
@@ -75,7 +74,6 @@ body{
     border-radius: 150px;
     border: 2px solid #8245f4;
 }
-/* Seção de boas-vindas */
 
 /* Seção de projetos realizados */
 #projects{
@@ -94,7 +92,6 @@ body{
     font-size: 2rem;
     flex-wrap: wrap;
 }
-/* Seção de projetos realizados */
 
 
 /* Seção de meios de contato */
@@ -135,7 +132,6 @@ body{
     color: #8245f4;
     font-style:italic;
 }
-/* Seção de meios de contato */
 
 /* Rodapé */
 footer {
@@ -147,4 +143,3 @@ footer {
     /* border-top: 5px solid #462a63; */
     background-image: linear-gradient(62deg, #323e4a 0%, #453b4f 100%);
 }
-/* Rodapé */
